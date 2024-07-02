@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+
+db:
+  uhub:
+    host: "oracle-175369-0.cloudclusters.net"
+    port: "19999"
+    username: "uhubtestuser"
+    password: "![e8cj8VDAZnNOc8nZuqXaUA==]"
+    service: "XE"
